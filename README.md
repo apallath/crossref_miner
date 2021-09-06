@@ -1,3 +1,5 @@
+**Deprecation notice: DO NOT USE THIS CODE ANYMORE. This code is not being maintained. It has been updated and packaged into a new tool called [paperfetcher](https://github.com/paperfetcher/paperfetcher), with many more features, tests, and documentation. Use [paperfetcher](https://github.com/paperfetcher/paperfetcher) instead of this code.**
+
 # Crossref Data Extraction Tool
 
 A simple tool to fetch citations using the Crossref REST API.
